@@ -16,6 +16,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 ### STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
+# CODE
 ## Data pre-processing
 ```
 import pandas as pd
@@ -146,6 +147,23 @@ plt.ylabel('Value')
 plt.legend(title='Region')
 plt.show()
 ```
-# CODE
+
 
 # OUPUT
+## Data pre-processing
+![11](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/0c111f3a-88d0-4ccf-b848-ad186002212d)
+![12](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/e3633c27-2b60-4762-9a1c-99f9fad68ca1)
+![13](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/3d09f7c0-b146-46f7-9503-d64fbbabc63c)
+![14](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/86ce96bd-6b1e-48fb-bdb1-746556a7cac1)
+
+## Which Segment has Highest sales?
+![15](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/88134d7b-6ade-4e68-9a6c-8dbb1e3e8219)
+
+## Which City has Highest profit?
+![16](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/37fcff25-c4c9-48cc-8e29-5a4ca9f4a182)
+
+## Which ship mode is profitable?
+![17](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/259c2b66-9f1e-4282-a1c9-1c09dedce37a)
+
+## Sales of the product based on region.
+![18](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/e53b0ef6-c5f2-4180-b758-e82c701eca49)
