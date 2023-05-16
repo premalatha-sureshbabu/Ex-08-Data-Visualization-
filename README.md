@@ -166,4 +166,27 @@ plt.show()
 ![17](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/259c2b66-9f1e-4282-a1c9-1c09dedce37a)
 
 ## Sales of the product based on region.
-![18](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/e53b0ef6-c5f2-4180-b758-e82c701eca49)
+![19](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/358c6578-c879-45bb-95fe-d428a58b52da)
+![20](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/358cbbac-6aad-44ec-b70c-db2494094b0c)
+
+## Find the relation between sales and profit.
+![21](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/813811fb-5f27-40ba-af82-de928cb9ce03)
+![21](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/b5a659e4-55c3-4e03-9afd-a940274156e3)
+
+## Segment
+![23](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/1f9246ae-3486-4696-bc55-7e4b8a4f02d6)
+
+## City
+![24](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/639978e7-2e1f-45e6-9346-300cdc73cd41)
+
+## States
+![25](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/c9da43ba-85e4-4607-9ca6-d113b6059aa5)
+
+## Segment and Ship Mode
+![26](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/1554450f-27e0-4890-af23-de465fdf7a39)
+
+## Segment, Ship mode and Region
+![27](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/28de5ff2-1d26-4550-9716-6de6773f0cf7)
+
+# Result:
+Thus, Data Visualization is performed on the given dataset and save the data to a file.
