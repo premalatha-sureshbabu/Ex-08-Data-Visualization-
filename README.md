@@ -17,6 +17,7 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ## Data pre-processing
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -139,7 +140,7 @@ plt.xlabel('Segment - Ship Mode')
 plt.ylabel('Value')
 plt.legend(title='Region')
 plt.show()
-
+```
 # CODE
 
 # OUPUT
