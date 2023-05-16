@@ -171,7 +171,8 @@ plt.show()
 
 ## Find the relation between sales and profit.
 ![21](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/813811fb-5f27-40ba-af82-de928cb9ce03)
-![22](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/1677eb22-9fd9-43a0-bf86-254d38e8a455)
+![22](https://github.com/premalatha-sureshbabu/Ex-08-Data-Visualization-/assets/120620842/8b871732-9487-4ece-983b-bbb723c35be3)
+
 
 
 ## Segment
